@@ -4,9 +4,8 @@
 _Taller 5 - Evaluación de Seguridad con STRIDE: ecosistema de desarrollo y soporte de Asul_
 
 ## 👥 Integrantes del equipo
-- _(Completar)_ — nicoclo205
-- _(Completar)_
-- _(Completar)_
+Nicolás Clavijo
+Mauricio Suárez
 
 ## 🧠 Descripción general del trabajo
 
