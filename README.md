@@ -99,6 +99,16 @@ Antes de entregar, compare su tabla contra los errores más frecuentes (amenazas
 - Informe técnico de análisis de seguridad
 - Referencias de buenas prácticas en ciberseguridad
 
+### 📦 Entrega del equipo (cliente real: Asul)
+
+| Parte | Archivo | Contenido |
+|---|---|---|
+| Clase | [`clase/notas.md`](clase/notas.md) | DFD del flujo de pagos de EdukIT, priorización y relación con Juice Shop |
+| Clase | [`clase/tabla-stride-clase.xlsx`](clase/tabla-stride-clase.xlsx) | 7 amenazas STRIDE sobre pagos de suscripción |
+| Cliente | [`entrega/tabla-stride-cliente.xlsx`](entrega/tabla-stride-cliente.xlsx) | 16 amenazas STRIDE sobre el ciclo Jira → Azure DevOps → despliegue en Azure |
+| Cliente | [`entrega/informe.md`](entrega/informe.md) | Contexto de la entrevista, DFD, priorización, hoja de ruta y comparación con EdukIT |
+| Cliente | [`entrega/referencias.md`](entrega/referencias.md) | Normativa colombiana y de la SFC, ISO 27001/27002, NIST, CIS y OWASP |
+
 ---
 
 ## 📊 Rúbrica de Evaluación
